@@ -1,0 +1,26 @@
+_repo: Queen-Victoria-her-girlhood-and-womanhood_6469
+creator:
+  author:
+    agent_name: Greenwood, Grace
+    aliases:
+    - Lippincott, Sara Jane Clarke
+    - Clarke, Sarah J. (Sarah Jane)
+    birthdate: 1823
+    deathdate: 1904
+    gutenberg_agent_id: '2057'
+    url: http://www.gutenberg.org/2009/agents/2057
+description: ''
+gutenberg_bookshelf: United Kingdom
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6469'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Victoria, Queen of Great Britain, 1819-1901'
+title: Queen Victoria, her girlhood and womanhood
+url: http://www.gutenberg.org/ebooks/6469
